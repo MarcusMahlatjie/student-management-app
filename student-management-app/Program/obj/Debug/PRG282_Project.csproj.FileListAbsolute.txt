@@ -1,0 +1,13 @@
+C:\Users\vuyoe\Downloads\PRG282_Project_Group6(1)\PRG282_Project_Group6\PRG282_Project\obj\Debug\PRG282_Project.csproj.AssemblyReference.cache
+C:\Users\vuyoe\Downloads\PRG282_Project_Group6(1)\PRG282_Project_Group6\PRG282_Project\bin\Debug\PRG282_Project.exe.config
+C:\Users\vuyoe\Downloads\PRG282_Project_Group6(1)\PRG282_Project_Group6\PRG282_Project\bin\Debug\PRG282_Project.exe
+C:\Users\vuyoe\Downloads\PRG282_Project_Group6(1)\PRG282_Project_Group6\PRG282_Project\bin\Debug\PRG282_Project.pdb
+C:\Users\vuyoe\Downloads\PRG282_Project_Group6(1)\PRG282_Project_Group6\PRG282_Project\obj\Debug\PRG282_Project.Form1.resources
+C:\Users\vuyoe\Downloads\PRG282_Project_Group6(1)\PRG282_Project_Group6\PRG282_Project\obj\Debug\PRG282_Project.PresentationLayer.ModuleForm.resources
+C:\Users\vuyoe\Downloads\PRG282_Project_Group6(1)\PRG282_Project_Group6\PRG282_Project\obj\Debug\PRG282_Project.PresentationLayer.RegisterUser.resources
+C:\Users\vuyoe\Downloads\PRG282_Project_Group6(1)\PRG282_Project_Group6\PRG282_Project\obj\Debug\PRG282_Project.PresentationLayer.StudentForm.resources
+C:\Users\vuyoe\Downloads\PRG282_Project_Group6(1)\PRG282_Project_Group6\PRG282_Project\obj\Debug\PRG282_Project.Properties.Resources.resources
+C:\Users\vuyoe\Downloads\PRG282_Project_Group6(1)\PRG282_Project_Group6\PRG282_Project\obj\Debug\PRG282_Project.csproj.GenerateResource.cache
+C:\Users\vuyoe\Downloads\PRG282_Project_Group6(1)\PRG282_Project_Group6\PRG282_Project\obj\Debug\PRG282_Project.csproj.CoreCompileInputs.cache
+C:\Users\vuyoe\Downloads\PRG282_Project_Group6(1)\PRG282_Project_Group6\PRG282_Project\obj\Debug\PRG282_Project.exe
+C:\Users\vuyoe\Downloads\PRG282_Project_Group6(1)\PRG282_Project_Group6\PRG282_Project\obj\Debug\PRG282_Project.pdb
